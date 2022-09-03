@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "wfcmazes"
+version = "0.1.0"
+description = "Generate mazes with the wave function collapse algorithm."
+authors = ["Nate <minecraftcrusher100@gmail.com>"]
+readme = "README.md"
+license = "GPLv3-or-later"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Pillow = "^9.2.0"
+numpy = "^1.23.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
