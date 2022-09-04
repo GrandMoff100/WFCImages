@@ -1,3 +1,3 @@
-# WFCMazes
+# WFCImages
 
-Generate mazes with the wave function collapse algorithm.
+Generate images using the Wave Function Collapse algorithm.
